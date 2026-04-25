@@ -1,6 +1,7 @@
 {
   "name": "JSON Formatter Pro",
   "slug": "json-formatter",
+  "tagline": "Free online JSON formatter, validator, and beautifier with syntax highlighting",
   "version": "1.0.0",
   "description": "Free online JSON formatter, validator, and beautifier. Format, validate, minify, and convert JSON with syntax highlighting.",
   "price": 9,
